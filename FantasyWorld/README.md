@@ -6,7 +6,6 @@ document 2: https://docs.google.com/document/d/1YgRF_2GSgBN7LVbK5kEuRYtEv-cmzKh4
 
 <FantasyWorld>
   
-Team members: <Mareci Ioana Amalia> <Bura Stefan> <Petrariu Ioana> <Sparhat Cosmin Mihai>
   
 Similar products & Relevant Links(>=3)
   
